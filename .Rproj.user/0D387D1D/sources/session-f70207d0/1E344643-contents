@@ -1,0 +1,12 @@
+name: analyse_investissement_locatif
+title: analyse_investissement_locatif
+username: yann
+account: yann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10335801
+bundleId: 8627815
+url: https://yann.shinyapps.io/analyse_investissement_locatif/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
